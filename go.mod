@@ -1,4 +1,4 @@
-module github.com/Jamstah/yaml.v2
+module github.com/Jamstah/yaml/v2
 
 go 1.15
 
